@@ -41,6 +41,8 @@ getChat
 getChatAdministrators
 getChatMembersCount
 getChatMember
+addChatUser
+deleteChatUser
 setChatStickerSet
 deleteChatStickerSet
 answerCallbackQuery
